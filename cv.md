@@ -43,8 +43,11 @@ My career has focused on the intersection of technology and policymaking. To me,
 **University of Maryland School of Medicine; STAR-ORC National Study Center for Trauma & EMS**; (Baltimore)
 :   **Senior Research Analyst**;
 
+:Summary;
     Extensive analysis of public-safety data (traffic citations, crash reports, driver licensing, vehicle registration, and roadway data) to help plan, evaluate, and communicate traffic safety trends on Maryland roadways.
+    
     Skills: GIS, statistical analysis, data management, policy research, journal publications, public presentations.
+    
     Tools: SAS, STATA, ArcGIS Pro, Google Apps Suite, MS Office, RITIS
 
 
