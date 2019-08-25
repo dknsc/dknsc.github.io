@@ -49,7 +49,6 @@ Summary:
 Skills:
 
 * GIS, statistical analysis, data management, policy research, journal publications, public presentations.
-Tools: 
 
 Tools:
 * SAS, STATA, ArcGIS Pro, Google Apps Suite, MS Office, RITIS
