@@ -14,22 +14,23 @@ USA                        202-304-4040
 Education
 ---------
 
-2017
+2015-2017
 :   **Master of Publc Policy**; University of Maryland, Baltimore County University (Baltimore)
 
-    *Thesis title: Reliable Documentation of Police-Citizen Interactions*
-    <li>TNotable Research
-        <ol>
-            <li>Multivariate Regression Analysis of Citation Data in Montgomery County, MD</li>
-            <li>Algorithmic Accountability and Public Policy</li>
-            <li>The Public Policy Implications of Artificial Intelligence</li>
-            <li>Sensible Public Policy for Emerging Technologies: Self-Driving Cars</li>
-          </ol>
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    Thesis title: Reliable Documentation of Police-Citizen Interactions
+    Notable Research:
+            Multivariate Regression Analysis of Citation Data in Montgomery County, MD
+            Algorithmic Accountability and Public Policy
+            The Public Policy Implications of Artificial Intelligence
+            Sensible Public Policy for Emerging Technologies: Self-Driving Cars
+2013-2014
+:   Carnegie Mellon University (Pittsburgh)
 
-    *Minor: Awesomeology*
+    Pursued graduate studies in Information Systems Management (MISM), Public Policy & Management (MSPPM)
+2008-2012
+:   **BA, Political Science**; Carnegie Mellon University (Pittsburgh)
+
+    Certificate in Public Administration
 
 Experience
 ----------
