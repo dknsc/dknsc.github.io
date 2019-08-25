@@ -2,24 +2,29 @@
 layout: default
 ---
 
-Johnny Coder
+Daniel Knopp,MPP
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Baltimore, Maryland        dan.knopp@gmail.com
+                           danielknopp.com
+USA                        202-304-4040
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017
+:   **Master of Publc Policy**; University of Maryland, Baltimore County University (Baltimore)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
+    *Thesis title: Reliable Documentation of Police-Citizen Interactions*
+    <li>TNotable Research
+        <ol>
+            <li>Multivariate Regression Analysis of Citation Data in Montgomery County, MD</li>
+            <li>Algorithmic Accountability and Public Policy</li>
+            <li>The Public Policy Implications of Artificial Intelligence</li>
+            <li>Sensible Public Policy for Emerging Technologies: Self-Driving Cars</li>
+          </ol>
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
