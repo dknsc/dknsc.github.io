@@ -15,7 +15,7 @@ Education
 ---------
 
 2015-2017
-:   **Master of Publc Policy**; University of Maryland, Baltimore County University (Baltimore)
+:   **Master of Publc Policy (MPP)**; University of Maryland, Baltimore County University (Baltimore)
 
     Thesis title: Reliable Documentation of Police-Citizen Interactions
     Notable Research:
@@ -35,18 +35,22 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+My career has focused on the intersection of technology and policymaking. To me, it is necessary to know technology in order to understand when its use has implications for society and the policies that govern it:
 
-* First item
+2017-Present
+**University of Maryland School of Medicine; STAR-ORC National Study Center for Trauma & EMS**; (Baltimore)
+:   **Senior Research Analyst**;
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    Extensive analysis of public-safety data (traffic citations, crash reports, driver licensing, vehicle registration, and roadway data) to help plan, evaluate, and communicate traffic safety trends on Maryland roadways.
+    Skills: GIS, statistical analysis, data management, policy research, journal publications, public presentations.
+    Tools: SAS, STATA, ArcGIS Pro, Google Apps Suite, MS Office, RITIS
 
-**That Other Job You Had**
+
+* FAA Certified Remote Pilot (June, 2019-Present)
+
+**Graduate Assistant - Maryland Institue for Policy Analysis and Research**
 
 Also with a short description.
 
