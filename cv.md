@@ -51,9 +51,10 @@ Skills:
 * GIS, statistical analysis, data management, policy research, journal publications, public presentations.
 Tools: 
 
+Tools:
 * SAS, STATA, ArcGIS Pro, Google Apps Suite, MS Office, RITIS
 
-
+Certifications:
 * FAA Certified Remote Pilot (June, 2019-Present)
 
 **Graduate Assistant - Maryland Institue for Policy Analysis and Research**
