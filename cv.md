@@ -104,7 +104,7 @@ Policy/Law
 :   **Small Unmanned Aerial Systems (sUAS):** Thousands of hours in flight experience, autonomous flight planning, 3D modeling, production of drone maps. 
 
 
-Extra Section, Call it Whatever You Want
+Extras
 ----------------------------------------
 
 * Human Languages:
