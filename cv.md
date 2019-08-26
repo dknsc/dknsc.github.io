@@ -17,12 +17,13 @@ Education
 2015-2017
 :   **Master of Publc Policy (MPP)**; University of Maryland, Baltimore County University (Baltimore)
 
-    Thesis title: Reliable Documentation of Police-Citizen Interactions
-    Notable Research:
-            Multivariate Regression Analysis of Citation Data in Montgomery County, MD
-            Algorithmic Accountability and Public Policy
-            The Public Policy Implications of Artificial Intelligence
-            Sensible Public Policy for Emerging Technologies: Self-Driving Cars
+Thesis title: 
+* Reliable Documentation of Police-Citizen Interactions
+Notable Research:
+            * Multivariate Regression Analysis of Citation Data in Montgomery County, MD
+            * Algorithmic Accountability and Public Policy
+            * The Public Policy Implications of Artificial Intelligence
+            * Sensible Public Policy for Emerging Technologies: Self-Driving Cars
 2013-2014
 :   Carnegie Mellon University (Pittsburgh)
 
@@ -45,7 +46,7 @@ My career has focused on the intersection of technology and policymaking. To me,
 
 Summary:
 
-Extensive analysis of public-safety data (traffic citations, crash reports, driver licensing, vehicle registration, and roadway data) to help plan, evaluate, and communicate traffic safety trends on Maryland roadways.
+* Extensive analysis of public-safety data (traffic citations, crash reports, driver licensing, vehicle registration, and roadway data) to help plan, evaluate, and communicate traffic safety trends on Maryland roadways.
 Skills:
 
 * GIS, statistical analysis, data management, policy research, journal publications, public presentations.
