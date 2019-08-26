@@ -78,46 +78,46 @@ Technical Experience
 **Principles**
 
 
-:   * Interdisciplinary
+Interdisciplinary
 
 
-:   * Open-source research/tools
+Open-source research/tools
 
 
-:   * Application of user experience/design fundamentals
+Application of user experience/design fundamentals
 
 
-:   * Advocate for the public good
+Advocate for the public good
 
 
 
 **Languages**
 
 
-:   **SAS:** Statistical Analysis System
+**SAS:** Statistical Analysis System
 
 
-:   **STATA:** Another statistical analysis tool
+**STATA:** Another statistical analysis tool
 
 
-:   **SQL:** Not just the language, but the practice of database management.
+**SQL:** Not just the language, but the practice of database management.
 
 
-:   **Python:** Mainly used in ArcGIS for spatial data manipulation
+**Python:** Mainly used in ArcGIS for spatial data manipulation
 
 
 
-:   Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**,
+Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**,
 
 **Policy/Law**
 
 
-:   **Understanding Government processes:** Wide-ranging knowledge of the policy process, legal language, and regulatory functions.
+**Understanding Government processes:** Wide-ranging knowledge of the policy process, legal language, and regulatory functions.
     
  Other Technical Skills
  
- 
-:   **Small Unmanned Aerial Systems (sUAS):** Thousands of hours in flight experience, autonomous flight planning, 3D modeling, production of drone maps. 
+
+**Small Unmanned Aerial Systems (sUAS):** Thousands of hours in flight experience, autonomous flight planning, 3D modeling, production of drone maps. 
 
 
 Extras
