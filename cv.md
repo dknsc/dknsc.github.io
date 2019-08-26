@@ -45,59 +45,56 @@ My career has focused on the intersection of technology and policymaking. To me,
 
 Summary:
 
-    Extensive analysis of public-safety data (traffic citations, crash reports, driver licensing, vehicle registration, and roadway data) to help plan, evaluate, and communicate traffic safety trends on Maryland roadways.
+Extensive analysis of public-safety data (traffic citations, crash reports, driver licensing, vehicle registration, and roadway data) to help plan, evaluate, and communicate traffic safety trends on Maryland roadways.
 Skills:
 
 * GIS, statistical analysis, data management, policy research, journal publications, public presentations.
 
-Tools:
-* SAS, STATA, ArcGIS Pro, Google Apps Suite, MS Office, RITIS
-
 Certifications:
 * FAA Certified Remote Pilot (June, 2019-Present)
 
-**Graduate Assistant - Maryland Institue for Policy Analysis and Research**
+2015-2016
+**Maryland Institute for Policy Analysis & Research**; (Baltimore)
+:   **Graduate Assistant**;
 
-Also with a short description.
+Data abstraction for the CDC National Violent Death Reporting System. Data analysis with early childhood databases.
+
+2014
+**Evan Glass for County Council**; (Silver Spring)
+:   **Senior Field Organizer**;
+
+Canvassing for Montgomery County Councilman Evan Glass. Utilized NGP VAN to contact voters, GIS to plan get out the vote efforts.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Multidisciplinary
+:   While this is not a "hard skill", I excel at taking principles
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
     * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Principles
+:   Interdisciplinary
+:   Open-source research/tools
+:   Application of user experience/design fundamentals
+:   Advocate for the public good
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Languages
+:   **SAS:** Statistical Analysis System
+:   **STATA:** Another statistical analysis tool
+:   **SQL:** Not just the language, but the practice of database management.
+:   **Python:** Mainly used in ArcGIS for spatial data manipulation
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**,
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Policy/Law
+:   **Understanding Government processes:** Wide-ranging knowledge of the policy process, legal language, and regulatory functions.
+    
+ Other Technical Skills
+:   **Small Unmanned Aerial Systems (sUAS):** Thousands of hours in flight experience, autonomous flight planning, 3D modeling, production of drone maps. 
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
@@ -105,11 +102,9 @@ Extra Section, Call it Whatever You Want
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
 
-* Random tidbit
+* Random tidbit:
+     * I threw a message in a bottle into the ocean, five years later it was found in England. 
 
-* Other sort of impressive-sounding thing you did
 
 [back](./)
