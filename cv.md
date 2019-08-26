@@ -8,7 +8,7 @@ Daniel Knopp, MPP
 -------------------     ----------------------------
 Baltimore, Maryland        dan.knopp@gmail.com
                            danielknopp.com
-USA                        202-304-4040
+USA                  
 -------------------     ----------------------------
 
 Education
