@@ -17,8 +17,9 @@ Education
 2015-2017
 :   **Master of Publc Policy (MPP)**; University of Maryland, Baltimore County University (Baltimore)
 
-Thesis title: 
-* Reliable Documentation of Police-Citizen Interactions
+Thesis: 
+* Reliable Documentation of Police-Citizen Interactions in Baltimore, Maryland
+
 Notable Research:
             * Multivariate Regression Analysis of Citation Data in Montgomery County, MD
             * Algorithmic Accountability and Public Policy
