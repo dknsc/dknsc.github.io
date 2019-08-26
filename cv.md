@@ -42,7 +42,7 @@ Experience
 
 **Most Recent Work Experience:**
 
-My career has focused on the intersection of technology and policymaking. To me, it is necessary to know technology in order to understand when its use has implications for society and the policies that govern it:
+My career has focused on the intersection of technology and policymaking. To me, it is necessary to know technology in order to understand when its use has implications for society and the policies that govern it.
 
 **2017-Present**
 
