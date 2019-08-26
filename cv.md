@@ -44,7 +44,7 @@ Experience
 
 My career has focused on the intersection of technology and policymaking. To me, it is necessary to know technology in order to understand when its use has implications for society and the policies that govern it.
 
-**2017-Present**
+**2017-Present**;
 
 **University of Maryland School of Medicine; STAR-ORC National Study Center for Trauma & EMS**; (Baltimore)
 :   **Senior Research Analyst**;
@@ -59,14 +59,14 @@ Skills:
 Certifications:
 * FAA Certified Remote Pilot (June, 2019-Present)
 
-**2015-2016**
+**2015-2016**;
 
 **Maryland Institute for Policy Analysis & Research**; (Baltimore)
 :   **Graduate Assistant**;
 
 Data abstraction for the CDC National Violent Death Reporting System. Data analysis with early childhood databases.
 
-**2014**
+**2014**;
 
 **Evan Glass for County Council**; (Silver Spring)
 :   **Senior Field Organizer**;
@@ -75,28 +75,48 @@ Canvassing for Montgomery County Councilman Evan Glass. Utilized NGP VAN to cont
 
 Technical Experience
 --------------------
-Principles:
+**Principles**;
 
 
 :   Interdisciplinary
+
+
 :   Open-source research/tools
+
+
 :   Application of user experience/design fundamentals
+
+
 :   Advocate for the public good
 
-Languages:
+
+
+**Languages**;
 
 
 :   **SAS:** Statistical Analysis System
+
+
 :   **STATA:** Another statistical analysis tool
+
+
 :   **SQL:** Not just the language, but the practice of database management.
+
+
 :   **Python:** Mainly used in ArcGIS for spatial data manipulation
+
+
 
 :   Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**,
 
 Policy/Law
+
+
 :   **Understanding Government processes:** Wide-ranging knowledge of the policy process, legal language, and regulatory functions.
     
  Other Technical Skills
+ 
+ 
 :   **Small Unmanned Aerial Systems (sUAS):** Thousands of hours in flight experience, autonomous flight planning, 3D modeling, production of drone maps. 
 
 
