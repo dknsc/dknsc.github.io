@@ -29,11 +29,11 @@ Notable Research:
 
 
 2013-2014
-:   Carnegie Mellon University (Pittsburgh)
+:   **Gradauate Studies**; Carnegie Mellon University (Pittsburgh)
 
     Pursued graduate studies in Information Systems Management (MISM), Public Policy & Management (MSPPM)
 2008-2012
-:   **BA, Political Science**; Carnegie Mellon University (Pittsburgh)
+:   **BA, Political Science**; University of Maryland, Baltimore County University (Baltimore)
 
     Certificate in Public Administration
 
