@@ -14,7 +14,7 @@ USA                        202-304-4040
 Education
 ---------
 
-2015-2017
+**2015-2017**
 :   **Master of Publc Policy (MPP)**; University of Maryland, Baltimore County University (Baltimore)
 
 Thesis: 
@@ -28,11 +28,11 @@ Notable Research:
 * Sensible Public Policy for Emerging Technologies: Self-Driving Cars
 
 
-2013-2014
+**2013-2014**
 :   **Gradauate Studies**; Carnegie Mellon University (Pittsburgh)
 
     Pursued graduate studies in Information Systems Management (MISM), Public Policy & Management (MSPPM)
-2008-2012
+**2008-2012**
 :   **BA, Political Science**; University of Maryland, Baltimore County University (Baltimore)
 
     Certificate in Public Administration
@@ -44,7 +44,7 @@ Experience
 
 My career has focused on the intersection of technology and policymaking. To me, it is necessary to know technology in order to understand when its use has implications for society and the policies that govern it.
 
-**2017-Present**;
+**2017-Present**
 
 **University of Maryland School of Medicine; STAR-ORC National Study Center for Trauma & EMS**; (Baltimore)
 :   **Senior Research Analyst**;
@@ -59,14 +59,14 @@ Skills:
 Certifications:
 * FAA Certified Remote Pilot (June, 2019-Present)
 
-**2015-2016**;
+**2015-2016**
 
 **Maryland Institute for Policy Analysis & Research**; (Baltimore)
 :   **Graduate Assistant**;
 
 * Data abstraction for the CDC National Violent Death Reporting System. Data analysis with early childhood databases.
 
-**2014**;
+**2014**
 
 **Evan Glass for County Council**; (Silver Spring)
 :   **Senior Field Organizer**;
