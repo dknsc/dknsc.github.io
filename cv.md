@@ -64,34 +64,34 @@ Certifications:
 **Maryland Institute for Policy Analysis & Research**; (Baltimore)
 :   **Graduate Assistant**;
 
-Data abstraction for the CDC National Violent Death Reporting System. Data analysis with early childhood databases.
+* Data abstraction for the CDC National Violent Death Reporting System. Data analysis with early childhood databases.
 
 **2014**;
 
 **Evan Glass for County Council**; (Silver Spring)
 :   **Senior Field Organizer**;
 
-Canvassing for Montgomery County Councilman Evan Glass. Utilized NGP VAN to contact voters, GIS to plan get out the vote efforts.
+* Canvassing for Montgomery County Councilman Evan Glass. Utilized NGP VAN to contact voters, GIS to plan get out the vote efforts.
 
 Technical Experience
 --------------------
-**Principles**;
+**Principles**
 
 
-:   Interdisciplinary
+:   * Interdisciplinary
 
 
-:   Open-source research/tools
+:   * Open-source research/tools
 
 
-:   Application of user experience/design fundamentals
+:   * Application of user experience/design fundamentals
 
 
-:   Advocate for the public good
+:   * Advocate for the public good
 
 
 
-**Languages**;
+**Languages**
 
 
 :   **SAS:** Statistical Analysis System
@@ -109,7 +109,7 @@ Technical Experience
 
 :   Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**,
 
-Policy/Law
+**Policy/Law**
 
 
 :   **Understanding Government processes:** Wide-ranging knowledge of the policy process, legal language, and regulatory functions.
