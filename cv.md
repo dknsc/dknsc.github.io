@@ -75,21 +75,17 @@ Canvassing for Montgomery County Councilman Evan Glass. Utilized NGP VAN to cont
 
 Technical Experience
 --------------------
+Principles:
 
-Multidisciplinary
-:   While this is not a "hard skill", I excel at taking principles
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Principles
 :   Interdisciplinary
 :   Open-source research/tools
 :   Application of user experience/design fundamentals
 :   Advocate for the public good
 
-Languages
+Languages:
+
+
 :   **SAS:** Statistical Analysis System
 :   **STATA:** Another statistical analysis tool
 :   **SQL:** Not just the language, but the practice of database management.
