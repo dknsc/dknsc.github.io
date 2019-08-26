@@ -107,7 +107,7 @@ Technical Experience
 
 
 
-* Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**,
+* Basic knowledge of **Computer Networks**, **GitHub**, **Computer Hardware**
 
 **Policy/Law**
 
